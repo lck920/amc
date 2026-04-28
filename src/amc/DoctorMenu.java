@@ -7,10 +7,6 @@ import model.*;
 import validation.UserRules;
 import validation.ValidationResult;
 
-/**
- *
- * @author chunk
- */
 public class DoctorMenu extends javax.swing.JFrame {
 
     private static final java.util.logging.Logger logger = java.util.logging.Logger.getLogger(DoctorMenu.class.getName());
