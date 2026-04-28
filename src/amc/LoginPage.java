@@ -9,10 +9,6 @@ import service.*;
 import model.*;
 import java.nio.file.Paths;
 
-/**
- *
- * @author chunk
- */
 public class LoginPage extends javax.swing.JFrame {
 
     private static final java.util.logging.Logger logger = java.util.logging.Logger.getLogger(LoginPage.class.getName());
