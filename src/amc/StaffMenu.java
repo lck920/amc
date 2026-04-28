@@ -18,12 +18,6 @@ import validation.ValidationResult;
 import model.*;
 import service.*;
 
-
-
-/**
- *
- * @author chunk
- */
 public class StaffMenu extends javax.swing.JFrame {
     
     private final String staffUsername;
