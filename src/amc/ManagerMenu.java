@@ -13,11 +13,6 @@ import java.io.FileNotFoundException;
 import validation.UserRules;
 import validation.ValidationResult;
 
-
-/**
- *
- * @author chunk
- */
 public class ManagerMenu extends javax.swing.JFrame {
 
     private final User manager;
