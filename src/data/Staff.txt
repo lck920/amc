@@ -1,10 +1,1 @@
-ST0001,abcd1234!,Lee Ji Jeng,Staff,Female,lee@gmail.com,1300882525,08-08-2000
-ST0002,Abcd1234!,Tan Wei Ming,Staff,Male,wei.ming@gmail.com,0123456789,10-10-1999
-ST0003,Bbcd1234!,Lim Hui Yin,Staff,Female,huiyin.lim@gmail.com,0112233445,12-12-1998
-ST0004,Cbcd1234!,Mohd Aiman,Staff,Male,aiman.mohd@gmail.com,0198765432,05-05-1997
-ST0005,Dbcd1234!,Samantha Goh,Staff,Female,samantha.goh@gmail.com,0176655443,03-03-1995
-ST0006,Ebcd1234!,Gan Zhi Hao,Staff,Male,zhihao.gan@gmail.com,0167788990,20-09-2001
-ST0007,Fbcd1234!,Nurul Aisyah,Staff,Female,nurul.aisyah@gmail.com,0134567890,01-01-2002
 ST0008,Gbcd1234!,Rajendran Kumar,Staff,Male,raj.kumar@gmail.com,0189988776,27-07-1996
-ST0009,Abcd1234!,Lim Chun Kitt,Staff,Male,lim@mail.com,0569855466,08-08-2000
-ST00010,Abcd1234!,Chang Yo Fen,Staff,Male,chang123@gmail.com,0125488544,06-06-2000
