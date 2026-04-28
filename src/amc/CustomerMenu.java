@@ -5,10 +5,6 @@ import javax.swing.table.DefaultTableModel;
 import service.*;
 import model.*;
 
-/**
- *
- * @author chunk
- */
 public class CustomerMenu extends javax.swing.JFrame {
 
     private static final java.util.logging.Logger logger = java.util.logging.Logger.getLogger(CustomerMenu.class.getName());
