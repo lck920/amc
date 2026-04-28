@@ -9,10 +9,6 @@ import service.*;
 import validation.UserRules;
 import validation.ValidationResult;
 
-/**
- *
- * @author chunk
- */
 public class SuperManagerMenu extends javax.swing.JFrame {
     
     private static final java.util.logging.Logger logger = java.util.logging.Logger.getLogger(SuperManagerMenu.class.getName());
