@@ -1,0 +1,9 @@
+----- APU Medical Centre Receipt -----
+Customer Name  : Tang Hao Yik
+Doctor Name    : Wong Chun Kit
+Appointment ID : A001
+Amount Paid    : RM 10000
+Payment Method : Online Transfer
+Date           : 2025-07-28
+----------------------------------------
+Thank you for choosing our service!

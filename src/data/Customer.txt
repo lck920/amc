@@ -1,0 +1,11 @@
+CST001,abcd1234!,Tang Hao Yik,Customer,Male,haoyik@gmail.com,0102789855,01-01-2005
+CST002,&lgLyGSnX1,Patricia Galloway,Customer,Female,jamesshawn@martin-kelly.com,0142868828,13-07-2006
+CST003,_f01zTucoj,Daniel Hahn,Customer,Male,dianafoster@hotmail.com,0128728463,26-05-2002
+CST004,h#4JVEE_Oh,James Ferrell,Customer,Male,frazierdanny@hotmail.com,0183197857,14-05-2007
+CST005,KLDj7P1t%5,Christopher Ashley,Customer,Male,tracy15@allen-allen.org,0189254563,07-12-1995
+CST006,E%hS52IVlb,Erica Romero,Customer,Female,michael20@rodriguez.biz,0196470389,17-04-1999
+CST007,WQvhU4vn6s,Steven Christensen,Customer,Male,raymondweiss@brown.com,0124534953,25-10-1997
+CST008,EJFOlaJ%zV,Amanda Snyder,Customer,Female,leeamy@keller.com,0177886609,10-03-2005
+CST009,Abcd1234@,Nicholas Dixon,Customer,Male,stacey26@anderson.com,0160792555,04-06-2002
+CST010,l@STIjvSxW,Brenda Cooper,Customer,Female,sherry72@rodriguez-wood.net,0102599599,30-12-2001CST011
+CST011,Abcd1234!,Chang Yong Feeng,Customer,Male,chnage09887@gmail.com,0111111111,06-06-2000

@@ -1,0 +1,11 @@
+F001,DC0001,ST0001,CST001,Good service,Very professional,150,A001
+F002,DC0003,ST0002,CST002,Average service,Doctor was late,100,A002
+F003,DC0004,ST0003,CST003,Excellent,Helpful and polite,200,A003
+F004,DC0005,ST0004,CST004,Poor service,Waited too long,80,A004
+F005,DC0006,ST0005,CST005,Good,Quick consultation,120,A005
+F006,DC0007,ST0006,CST006,Excellent,Explained clearly,180,A006
+F007,DC0008,ST0007,CST007,Fair,Could be faster,90,A007
+F008,DC0009,ST0008,CST008,Great,Comfortable experience,160,A008
+F009,DC0010,ST0001,CST009,Amazing,Will recommend,200,A009
+F010,DC0011,ST0002,CST010,Bad,Doctor was rude,60,A010
+F011,DC0014,ST00010,CST010,covid 19,good service,200,A012

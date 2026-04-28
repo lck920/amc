@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/ASUS/Desktop/AMC/src/amc/LoginPage.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/AMC/src/data/Manager.txt</file>
+            <file>file:/C:/Users/ASUS/Desktop/AMC/src/data/SuperManager.txt</file>
+            <file>file:/C:/Users/ASUS/Desktop/AMC/src/data/Customer.txt</file>
+            <file>file:/C:/Users/ASUS/Desktop/AMC/src/data/payments.txt</file>
+            <file>file:/C:/Users/ASUS/Desktop/AMC/src/data/appointments.txt</file>
+            <file>file:/C:/Users/ASUS/Desktop/AMC/src/amc/CustomerMenu.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/AMC/src/amc/DoctorMenu.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/AMC/src/amc/StaffMenu.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/AMC/src/amc/SuperManagerMenu.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/AMC/src/amc/WindowPositioner.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/AMC/src/service/UserService.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/AMC/src/validation/ValidationResult.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/AMC/src/validation/UserRules.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/AMC/src/validation/InputHints.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/AMC/src/model/User.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/AMC/src/model/SuperManager.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/AMC/src/model/Manager.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/AMC/src/model/Report.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/AMC/src/model/Staff.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/AMC/src/model/Doctor.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/AMC/src/model/Customer.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/AMC/src/model/UserFactory.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/AMC/src/data/Doctor.txt</file>
+            <file>file:/C:/Users/ASUS/Desktop/AMC/src/data/Staff.txt</file>
+            <file>file:/C:/Users/ASUS/Desktop/AMC/src/util/InactivityManager.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/AMC/src/amc/ManagerMenu.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/AMC/src/model/Appointment.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/AMC/src/model/Feedback.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/AMC/src/model/Payment.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/AMC/src/model/UserFileHandler.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/AMC/src/service/AppointmentService.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/AMC/src/service/FeedbackService.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/AMC/src/service/PaymentService.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/AMC/src/service/ReportService.java</file>
+        </group>
+    </open-files>
+</project-private>
