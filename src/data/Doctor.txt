@@ -1,13 +1,2 @@
-DC0001,abcd1234!,Wong Chun Kit,Doctor,Male,chunkit@gmail.com,0568944522,09-09-2004
 DC0003,Abcd1234!,dr pamadeep,Doctor,Male,pamadeep123@gmail.com,2578966511,01-01-2004
 DC0004,Abcd1234!,dr amadeepp,Doctor,Male,amadeepp@gmail.com,01256331445,03-03-2000
-DC0005,Bbcd1234!,Dr Lim Jia Wei,Doctor,Male,jiawei.lim@gmail.com,0162233445,05-06-1998
-DC0006,Cbcd1234!,Dr Tan Mei Ling,Doctor,Female,meiling.tan@gmail.com,0175544332,12-12-2001
-DC0007,Dbcd1234!,Dr Amir Hafiz,Doctor,Male,amir.hafiz@gmail.com,0123344556,18-10-1997
-DC0008,Ebcd1234!,Dr Chong Li Wei,Doctor,Female,liwei.chong@gmail.com,0189988776,22-07-1995
-DC0009,Fbcd1234!,Dr Goh Yu Heng,Doctor,Male,yuheng.goh@gmail.com,0136677889,11-01-1999
-DC0010,Gbcd1234!,Dr Nur Aina,Doctor,Female,nur.aina@gmail.com,0148899776,28-04-2003
-DC0011,Hbcd1234!,Dr Raj Kumar,Doctor,Male,raj.kumar@gmail.com,0167788990,07-03-1996
-DC0012,Ibcd1234!,Dr Gan Kai Jie,Doctor,Male,kaijie.gan@gmail.com,0112345678,23-05-1994
-DC0013,Abcd1234!,Chan Guan E,Doctor,Male,chan123@mail.com,0102544855,08-08-2000
-DC0014,Abcd1234!,cang yong feng,Doctor,Male,chang1234@gmail.com,0125556455,06-06-2000
