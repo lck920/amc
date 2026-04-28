@@ -1,9 +1,1 @@
-M0001,Abcd1234!,Chin GUan Er,Manager,Male,chinge2000@gmail.com,0102776788,20-09-2005M0003,Abcd1234!,Wang Chun Kit,Manager,Male,wang@google.com,0102711966,08-08-2004
-M0002,Abcd1234!,Wand Jun Kit,Manager,Male,junkit@hotmail.com,0102778566,09-09-2005
-M0003,Abcd1234!,Wang Chun Kit,Manager,Male,wang@google.com,0102711966,08-08-2004
 M0004,Abcd1234!,Eng Lok Qi,Manager,Male,lokqi@gmail.com,0158756969,09-09-2001
-M0005,Abcd1234!,Chin Kuan Er,Manager,Male,er@gmail.com,0102785366,08-04-5200
-M0006,Alex123@@,Alex Lim Chun,Manager,Male,alex@gmail.com,0125299788,08-08-2002
-M0007,Abcd1234!,Chin Guan Ee,Manager,Male,chin@gmail.comm,0159856588,08-08-2000
-M0008,Abcd1234!,Chan Yong Feng,Manager,Male,chang@gmail.com,01545889988,06-06-2000
-M0009,Abcd1234!,Jason Leek,Manager,Male,jasonleek2005@gmail.com,0102555555,08-08-2003
